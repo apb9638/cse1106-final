@@ -1,0 +1,5 @@
+Smart Study Room Occupancy Tracker
+- maintain count of people walking in and out, and using the LED to help know the amount of people in the room.
+- prenting the number from becoming negative. 
+- allow to record when a person comes in and out of the room
+- Using the LED it will display when it is too full for someone to come in.
